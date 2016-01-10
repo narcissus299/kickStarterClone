@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% set active_page = "index" %}
+
+{% block subtitle %}
+Catchy title
+{% endblock %}
+
+{% block content %}
+      <div class="jumbotron">
+        <h1>Kickstarterclone</h1>
+        <p>Welcome to Kickstarterclone!</p>
+      </div>
+
+
+      <h2>New Projects</h2>
+	  {% include '_projects.html' %}
+{% endblock content %}
+       

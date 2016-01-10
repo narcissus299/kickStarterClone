@@ -1,0 +1,52 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.project-vitals{
+  font-size: 2em; 
+}
+
+.search-card {
+  padding: 15px;
+  border: 1px solid #000;
+  height: 415px;
+  margin-bottom: 40px;
+}
+
+.seach-description {
+  height: 350px;
+}
+
+.seach-thumbnail {
+  height: 200px;
+}
+
+.btn-kickstarterclone {
+  background-color:#2bde73;
+  color: #FFF;
+  font-weight: bold; 
+}
+
+.btn-kickstarterclone:hover {
+  background-color:#19b858;
+  font-weight: bold; 
+}
+.navbar-default .navbar-brand{
+  color: #2bde73;
+  font-weight: bold;
+}
+
+a{
+  color: navbar-brand{
+  color: #
+}
+
+a:hover {
+  color:#19b858;
+  text-decoration: none;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+  color:#19b858;
+}
